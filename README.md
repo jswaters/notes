@@ -1,4 +1,4 @@
-notes
+notes on empirical ecology
 =====
 
 Notes on empirical ecology
@@ -6,7 +6,7 @@ Lyrics from: H. S. Horn (1986). Notes on empirical ecology. American Scientist, 
 
 Chorus:
 I've got the Kuhn & Popper knee-jerk philosophy of science blues.
-I've read by John Rader Platt, and strong inference is what I use.
+I've read my John Rader Platt, and strong inference is what I use.
 With alternative hypotheses, how can I lose?
 At the ".05" significance the data will choose.
 I've got the Kuhn & Popper knee-jerk philosophy of science blues.
